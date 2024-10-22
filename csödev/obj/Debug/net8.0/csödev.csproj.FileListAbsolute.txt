@@ -1,0 +1,14 @@
+/Users/osmanyetkin/Desktop/Software 101/csödev/bin/Debug/net8.0/csödev
+/Users/osmanyetkin/Desktop/Software 101/csödev/bin/Debug/net8.0/csödev.deps.json
+/Users/osmanyetkin/Desktop/Software 101/csödev/bin/Debug/net8.0/csödev.runtimeconfig.json
+/Users/osmanyetkin/Desktop/Software 101/csödev/bin/Debug/net8.0/csödev.dll
+/Users/osmanyetkin/Desktop/Software 101/csödev/bin/Debug/net8.0/csödev.pdb
+/Users/osmanyetkin/Desktop/Software 101/csödev/obj/Debug/net8.0/csödev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanyetkin/Desktop/Software 101/csödev/obj/Debug/net8.0/csödev.AssemblyInfoInputs.cache
+/Users/osmanyetkin/Desktop/Software 101/csödev/obj/Debug/net8.0/csödev.AssemblyInfo.cs
+/Users/osmanyetkin/Desktop/Software 101/csödev/obj/Debug/net8.0/csödev.csproj.CoreCompileInputs.cache
+/Users/osmanyetkin/Desktop/Software 101/csödev/obj/Debug/net8.0/csödev.dll
+/Users/osmanyetkin/Desktop/Software 101/csödev/obj/Debug/net8.0/refint/csödev.dll
+/Users/osmanyetkin/Desktop/Software 101/csödev/obj/Debug/net8.0/csödev.pdb
+/Users/osmanyetkin/Desktop/Software 101/csödev/obj/Debug/net8.0/csödev.genruntimeconfig.cache
+/Users/osmanyetkin/Desktop/Software 101/csödev/obj/Debug/net8.0/ref/csödev.dll
